@@ -10,4 +10,5 @@ This repository contains my solutions for the Data Analysis course at SWPS Unive
 * **Lab 5: (Data Analysis Techniques. Lab 5. Working with pandas, part 2.)** [here](Data_Analysis_SWPS_Lab5.ipynb)
 * **Lab 6: (Data Analysis Techniques. Lab 6. Working with pandas, part 3.)** [here](Data_Analysis_SWPS_Lab6%20(2).ipynb)
 * **Lab 7: (Data Analysis Techniques. Lab 7. Introduction to `matplotlib`.)** [here](Data_Analysis_SWPS_Lab_07.ipynb)
+* **Lab 9: (Data Analysis Techniques. Lab 9. Lab-9 solutions.)** [here](Data_Analysis_SWPS_Lab_9_solutions.ipynb.ipynb)
 * **Lab 10: (Data Analysis Techniques. Lab 10. EDA with `seaborn` and `plotly`.)** [here](Data_Analysis_SWPS_Lab_10_task_0.ipynb)
